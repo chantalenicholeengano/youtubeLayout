@@ -1,0 +1,25 @@
+.container{
+    border: 3px solid black;
+    height: 600px;
+    width: 800px;
+}
+
+.box1{
+    border: 3px solid rgb(73, 102, 128);
+    height: 50px;
+}
+
+.box2{
+    display: inline-block;
+    border: 3px solid rgb(158, 180, 199);
+    width: 150px;
+    height: 538px;
+}
+
+.box3{
+    display: inline-block;
+    border: 3px solid rgb(62, 69, 75);
+    height: 538px;
+    width: 638px;
+    margin-left: -4px;
+}
